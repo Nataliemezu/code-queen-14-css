@@ -1,0 +1,39 @@
+body{
+    background-color: cyan;
+}
+.mother{
+    background-color:peachpuff;
+    height: 600px;
+    width: 300px;
+    padding: 50px;
+}
+.natalie{
+    height: 100px;
+    width: 150px;
+    border-radius: 100%;
+    border: whitesmoke 5px solid;
+    box-shadow: 2px 3px black;
+}
+.media{
+    background-color: pink;
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
+#slogan{
+    padding-bottom: 5px;
+    text-align: center;
+}
+.company{
+    color: rgb(80, 4, 4);
+    font-size: 30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+*{
+    margin: auto;
+}
+.logo{
+    
+    margin-left: 90px;
+}
