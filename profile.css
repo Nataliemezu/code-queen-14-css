@@ -1,0 +1,16 @@
+body{
+    background-color:aqua;
+}
+
+h1{
+    color:maroon;
+    text-align: center;
+    background-color: chartreuse;
+}
+
+p{
+    font-size: 20px;
+    line-height: 2;
+    background-color: cornflowerblue;
+    margin:left 100px;
+}
