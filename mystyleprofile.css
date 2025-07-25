@@ -1,0 +1,51 @@
+
+.main{
+margin-left: 500px;
+border: 2px solid black;
+padding: 20px;
+width: 500px;
+box-sizing: border-box;
+background-color: aquamarine;
+ 
+}
+
+ .bio img{
+    border-radius: 50%;
+    margin-left: 120px;
+    background-color: rgb(181, 197, 197);
+    box-sizing: border-box;
+
+   }
+
+   
+   .bio{
+     background-color: rgb(181, 197, 197);
+      box-sizing: border-box;
+    border-radius: 10%;
+
+   }
+   h1{
+    margin-left: 90px;
+    padding: 20px;
+   }
+
+   p{
+        padding: 5px;
+   }
+
+.icons{
+    background-color: rgb(181, 197, 197);
+   
+    margin-left: 20px;
+ border-radius: 10%;
+
+}
+
+
+.Passion{
+    background-color: rgb(241, 234, 241);
+    padding: 10px;
+    border-radius: 10%;
+    box-sizing: border-box;
+}
+
